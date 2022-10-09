@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T17:34:42.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="WoD8Q6NbCol8l7YCgv8e" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T17:34:56.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="lpz3PYlUeH98LVSr5cK6" version="20.4.0" type="github">
   <diagram id="aYnXyXZ2TVpq7NfhsiGQ" name="Page-1">
     <mxGraphModel dx="1666" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
           <mxGeometry x="1100" y="710" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qLYafVknRPTx5jA6gYWM-44" value="Salary_Type&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Negotiable&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;- Fixed&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;startSize=30;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="700" width="140" height="100" as="geometry" />
+          <mxGeometry x="770" y="700" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qLYafVknRPTx5jA6gYWM-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;Skills&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- HTML&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- CSS&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Javascript&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- React&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- S3&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Node.js&amp;nbsp;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;startSize=30;fontStyle=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="340" width="140" height="150" as="geometry" />
