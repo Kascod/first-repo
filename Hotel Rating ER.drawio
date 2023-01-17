@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-15T19:22:36.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="30SbUCBgXNTGXg4uQvv9" version="20.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-17T18:07:48.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="g7Bn-lsclTqOVOUky2aT" version="20.8.3" type="github" pages="5">
   <diagram id="bobwLUG3jCgegFdddKmw" name="Hotel Rating ER">
-    <mxGraphModel dx="1266" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,8 +435,30 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="MGnh2KpToPLpy6QqUT65" name="2ndtry - Prof Courses ER">
+    <mxGraphModel dx="1674" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ct9CYne_rvbdW6E3O4at-1" value="&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;A professor teaches different courses for different semesters, ability to track a professor&#39;s courses for each semester.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="746" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XpdM5mO65BeTeFtQ_iLn" name="Assignment">
+    <mxGraphModel dx="2501" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DF8evu9F6cRkdcVO696R-2" value="&lt;span style=&quot;&quot;&gt;Create my own scenario e.g refund for company or etc. Fictitious story. &lt;br&gt;&lt;br&gt;SEND TO KINGSLEY FIRST TO APPROVE.&lt;br&gt;&lt;br&gt;Then from that derive an ERD for a DB.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="10" width="760" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="2pzTz4D-0tmoJ9rIvtZy" name="Professor Courses ER">
-    <mxGraphModel dx="1266" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1131,28 +1153,6 @@
           <mxGeometry x="400" width="200" height="31" as="geometry">
             <mxRectangle width="200" height="31" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="XpdM5mO65BeTeFtQ_iLn" name="Assignment">
-    <mxGraphModel dx="2093" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="DF8evu9F6cRkdcVO696R-2" value="&lt;span style=&quot;&quot;&gt;Create my own scenario e.g refund for company or etc. Fictitious story. &lt;br&gt;&lt;br&gt;SEND TO KINGSLEY FIRST TO APPROVE.&lt;br&gt;&lt;br&gt;Then from that derive an ERD for a DB.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="10" width="760" height="150" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="MGnh2KpToPLpy6QqUT65" name="2ndtry - Prof Courses ER">
-    <mxGraphModel dx="1266" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ct9CYne_rvbdW6E3O4at-1" value="&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;A professor teaches different courses for different semesters, ability to track a professor&#39;s courses for each semester.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="10" width="746" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
