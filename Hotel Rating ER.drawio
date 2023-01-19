@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T23:52:01.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="TRrc3fwIc2nEbk2ZoQd1" version="20.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-19T23:53:43.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="9z5NedalzTnAY9rXZjXI" version="20.8.5" type="github" pages="5">
   <diagram id="bobwLUG3jCgegFdddKmw" name="Hotel Rating ER">
     <mxGraphModel dx="1674" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1817,6 +1817,9 @@
             <mxPoint x="203" y="544" as="sourcePoint" />
             <mxPoint x="280" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X05HPTaj6J17VAmIags1-19" value="Kingsley to explain 1-many and 1-1 connections again please.&amp;nbsp;&lt;br&gt;And do we need so many tables?&lt;br&gt;Can&#39;t we do like above instead?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="530" width="350" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
