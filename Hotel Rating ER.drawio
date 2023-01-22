@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T23:43:33.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="6Yck7GBcpbj9588LvWcl" version="20.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-22T23:56:18.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="cWZDEblDxr1KnSO_TxPQ" version="20.8.5" type="github" pages="6">
   <diagram id="bobwLUG3jCgegFdddKmw" name="Hotel Rating ER">
     <mxGraphModel dx="1395" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1619,7 +1619,7 @@
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-0" />
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-1" parent="qNvpGDd4Rb3opIK7Lcl_-0" />
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-2" value="employees" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
-          <mxGeometry x="10" y="480" width="180" height="180" as="geometry" />
+          <mxGeometry x="10" y="480" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-2">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -1668,20 +1668,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-14" value="commission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-12">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-15" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-2">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-16" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-15">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-17" value="salary" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-15">
+        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-14" value="telephone" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-12">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1736,12 +1723,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-30" value="commission " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-28">
+        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-30" value="telephone" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-28">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-31" value="Earns" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-31" value="Wages" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
           <mxGeometry x="294" y="240" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-31">
@@ -1752,7 +1739,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-34" value="earnId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-32">
+        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-34" value="wageId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-32">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1822,8 +1809,8 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-50" value="A company has both sales reps and employees.&amp;nbsp;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Sales reps only earn commission e.g 10%, 15%, 20%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees are paid salary only e.g 45k, 65k, 85k&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees only earn commission e.g 10%, 15%, 20%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees earn both salary and commission e.g 45k, 10%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Draw Entity Relationship Diagram representing the above&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
-          <mxGeometry x="30" y="30" width="790" height="150" as="geometry" />
+        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-50" value="A company has both sales reps and employees.&amp;nbsp;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Sales reps only earn commission e.g 10%, 15%, 20%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees are paid salary only e.g 45k, 65k, 85k&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees only earn commission e.g 10%, 15%, 20%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-align: start; font-family: OpenSans-Regular; background-color: rgb(255, 255, 255);&quot;&gt;Some employees earn both salary and commission e.g 45k, 10%&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;br style=&quot;font-size: 16px; text-align: start; box-sizing: border-box; font-family: OpenSans-Regular;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;OpenSans-Regular&quot;&gt;Draw Entity Relationship Diagram representing the above&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font size=&quot;3&quot; face=&quot;OpenSans-Regular&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Sales reps, Employees, Salary,&amp;nbsp;Commission, Wages&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+          <mxGeometry x="20" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qNvpGDd4Rb3opIK7Lcl_-51" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qNvpGDd4Rb3opIK7Lcl_-1" source="qNvpGDd4Rb3opIK7Lcl_-3" target="qNvpGDd4Rb3opIK7Lcl_-35">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -1861,8 +1848,102 @@
             <mxPoint x="280" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNvpGDd4Rb3opIK7Lcl_-57" value="Kingsley to explain 1-many and 1-1 connections again please.&amp;nbsp;&lt;br&gt;And do we need so many tables?&lt;br&gt;Can&#39;t we do like above instead?&lt;br&gt;&lt;br&gt;Research 1NF (normal form), 2NF and 3NF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
-          <mxGeometry x="239" y="530" width="350" height="130" as="geometry" />
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-0" value="commission " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+          <mxGeometry x="200" y="710" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-0">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-2" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-3" value="commissionId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-1">
+          <mxGeometry x="30" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-0">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-11" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-10">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-12" value="commission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-10">
+          <mxGeometry x="30" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-16" value="salary" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+          <mxGeometry x="480" y="730" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-16">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-18" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-17">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-19" value="salaryId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-17">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-16">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-21" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-20">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-22" value="name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-20">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-16">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-24" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-23">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-25" value="email " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-23">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-16">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-27" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-26">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-28" value="commission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-26">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-29" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-16">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-30" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-29">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9aWVmFpDKTl2hmCEyLn-31" value="salary" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-29">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
