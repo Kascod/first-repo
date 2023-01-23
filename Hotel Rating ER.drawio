@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T00:08:33.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="qeQPUPeMvYYpYGoNTQx4" version="20.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-01-23T00:20:03.870Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="K-JhDnz1RF7QXodcD9Hu" version="20.8.5" type="github" pages="6">
   <diagram id="bobwLUG3jCgegFdddKmw" name="Hotel Rating ER">
     <mxGraphModel dx="1395" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1892,6 +1892,64 @@
         <mxCell id="T9aWVmFpDKTl2hmCEyLn-31" value="salary" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="T9aWVmFpDKTl2hmCEyLn-29">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-0" value="Employee commissions " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+          <mxGeometry x="260" y="870" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-0">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-2" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-1">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-3" value="commissionId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-1">
+          <mxGeometry x="30" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-0">
+          <mxGeometry y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-5" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-4">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-6" value="commission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-4">
+          <mxGeometry x="30" width="270" height="30" as="geometry">
+            <mxRectangle width="270" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-7" value="Reps commissions " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=24;" vertex="1" parent="qNvpGDd4Rb3opIK7Lcl_-1">
+          <mxGeometry x="230" y="750" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-7">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-9" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-8">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-10" value="commissionId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-8">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-7">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-12" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-11">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vC3S2Jnzh289h38iJSCZ-13" value="commission" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=24;" vertex="1" parent="vC3S2Jnzh289h38iJSCZ-11">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
