@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T01:15:26.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="nVVbEUkYknnt53Onr8o5" version="20.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-23T01:19:33.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="APBqN2zeqLkmHpwiY_o-" version="20.8.5" type="github" pages="7">
   <diagram id="bobwLUG3jCgegFdddKmw" name="Hotel Rating ER">
     <mxGraphModel dx="1395" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1094,6 +1094,21 @@
         <mxCell id="1" parent="0" />
         <mxCell id="DF8evu9F6cRkdcVO696R-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Create my own scenario e.g refund for company or etc. Fictitious story. &lt;br&gt;SEND TO KINGSLEY FIRST TO APPROVE.Then from that derive an ERD for a DB.&lt;/font&gt;&amp;nbsp;&lt;br&gt;A user should be able to buy a movie ticket and select seats online for Codehance Cinema and rate the movies." style="whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-790" y="10" width="760" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RSKaHU__Pw72pIlj9-Aw-1" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="175" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSKaHU__Pw72pIlj9-Aw-2" value="ratings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSKaHU__Pw72pIlj9-Aw-3" value="movies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-655" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSKaHU__Pw72pIlj9-Aw-4" value="tickets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RSKaHU__Pw72pIlj9-Aw-5" value="seats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="175" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
